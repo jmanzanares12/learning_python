@@ -1,0 +1,1 @@
+print('El nombre de tu cerveza es: \n"' + input('Que mineral te gusta? ') +" "+ input('De que color es tu cerveza? ') + '"')
